@@ -42,7 +42,7 @@
             // pictureBox1
             // 
             pictureBox1.Image = Properties.Resources.Screenshot_2024_06_02_100656;
-            pictureBox1.Location = new Point(32, 22);
+            pictureBox1.Location = new Point(32, 12);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(235, 109);
             pictureBox1.TabIndex = 0;
@@ -52,7 +52,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Simplified Arabic", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(90, 147);
+            label1.Location = new Point(87, 141);
             label1.Name = "label1";
             label1.Size = new Size(108, 48);
             label1.TabIndex = 1;
