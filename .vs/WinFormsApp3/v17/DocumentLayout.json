@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mdrasa\\Windows form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|d:\\mdrasa\\windows form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|d:\\mdrasa\\windows form\\form24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|solutionrelative:form24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|D:\\Mdrasa\\Windows form\\form24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|solutionrelative:form24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|D:\\Mdrasa\\Windows form\\form30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|solutionrelative:form30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|D:\\Mdrasa\\Windows form\\form30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|solutionrelative:form30.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|D:\\Mdrasa\\Windows form\\form28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|solutionrelative:form28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|D:\\Mdrasa\\Windows form\\form28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9DF4C35-92A2-4FDA-BE62-258FE84F859A}|WinFormsApp3.csproj|solutionrelative:form28.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Mdrasa\\Windows form\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Mdrasa\\Windows form\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:25:37.421Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form30.cs",
+              "DocumentMoniker": "D:\\Mdrasa\\Windows form\\Form30.cs",
+              "RelativeDocumentMoniker": "Form30.cs",
+              "ToolTip": "D:\\Mdrasa\\Windows form\\Form30.cs",
+              "RelativeToolTip": "Form30.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-03T17:37:46.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form30.cs",
+              "DocumentMoniker": "D:\\Mdrasa\\Windows form\\Form30.cs",
+              "RelativeDocumentMoniker": "Form30.cs",
+              "ToolTip": "D:\\Mdrasa\\Windows form\\Form30.cs",
+              "RelativeToolTip": "Form30.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-03T17:37:46.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form24.cs",
+              "DocumentMoniker": "D:\\Mdrasa\\Windows form\\Form24.cs",
+              "RelativeDocumentMoniker": "Form24.cs",
+              "ToolTip": "D:\\Mdrasa\\Windows form\\Form24.cs",
+              "RelativeToolTip": "Form24.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:37:47.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form28.cs",
+              "DocumentMoniker": "D:\\Mdrasa\\Windows form\\Form28.cs",
+              "RelativeDocumentMoniker": "Form28.cs",
+              "ToolTip": "D:\\Mdrasa\\Windows form\\Form28.cs",
+              "RelativeToolTip": "Form28.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-03T17:37:46.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form28.cs",
+              "DocumentMoniker": "D:\\Mdrasa\\Windows form\\Form28.cs",
+              "RelativeDocumentMoniker": "Form28.cs",
+              "ToolTip": "D:\\Mdrasa\\Windows form\\Form28.cs",
+              "RelativeToolTip": "Form28.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAjwCsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-03T17:37:46.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form24.cs",
+              "DocumentMoniker": "D:\\Mdrasa\\Windows form\\Form24.cs",
+              "RelativeDocumentMoniker": "Form24.cs",
+              "ToolTip": "D:\\Mdrasa\\Windows form\\Form24.cs",
+              "RelativeToolTip": "Form24.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-03T17:37:48.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
